@@ -1,4 +1,4 @@
-# coding:utf8
+# -*- coding:utf-8 -*-
 import random
 
 NUM_OF_TRIALS = 10000000
