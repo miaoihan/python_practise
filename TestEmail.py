@@ -1,7 +1,5 @@
 # coding=utf8
-# from email.mime.text import MIMEText
-from email.MIMEText import MIMEText
-from email.Header import Header
+from email.mime.text import MIMEText
 msg = MIMEText('Hello,send by zhanghan','plain', 'utf-8')
 
 # 输入Email地址和口令:
